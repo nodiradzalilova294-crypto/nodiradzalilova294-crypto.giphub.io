@@ -1,2 +1,2 @@
-# nodiradzalilova294-crypto.giphub.io
+# nodiradzalilova294-crypt
 Us project
